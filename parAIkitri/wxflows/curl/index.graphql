@@ -1,0 +1,46 @@
+type Phrases {
+  get_directions: String
+}
+
+type Root {
+  actual_title: String
+  """
+  Field "blocks" typed as JSON since none of its fields is a valid GraphQL identifier ["1", "10", "11", "12", "2", "3", "4", "5", "6", "7", "8", "9"]
+  """
+  blocks: JSON
+  breadcrumb: String
+  breadcrumb_menu: String
+  class: String
+  content: String
+  """
+  Field "controller_e" is defined as JSON since its value was always 'null'
+  """
+  controller_e: JSON
+  css: [JSON]
+  error: String
+  files: [String]
+  h1: String
+  h1_clean: String
+  has_left: Boolean
+  has_right: Boolean
+  iNumberMessage: Int
+  iNumberNotification: Int
+  iNumberRequest: Int
+  id: String
+  is_sample: Boolean
+  keep_body: Boolean
+  menuSub: String
+  """
+  Field "meta" is defined as JSON since its value was always 'null'
+  """
+  meta: JSON
+  phrases: Phrases
+  profile_user_id: Int
+  search: String
+  selected_menu: String
+  title: String
+}
+
+type Query {
+  bukusiapabilang: Root @rest(endpoint: "https://siapabilang.com/")
+}
