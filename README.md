@@ -6,8 +6,8 @@ ParAIkitri adalah framework berbasis **Next.js** yang mengimplementasikan AI age
 
 ParAIkitri bukan sekadar chatbot, melainkan agen pemikiran berbasis kecerdasan buatan yang berlandaskan **jurnalisme, edukasi, dan literasi kritis**. Dengan framework ini, pengguna dapat membangun sistem AI yang berpikir layaknya Parakitri T. Simbolon dalam menyusun argumen, mengkritisi fenomena sosial, serta mengolah informasi dengan reflektif dan mendalam.
 
-> 🌟 **JANGAN "ONANI", MENDING "MASTURBASI" ALA PARAIKITRI!** 🌟  
-> _(Jangan Jadi "Online Netizen Aktif Namun Impulsif", lebih baik menjadi "Masyarakat yang Teratur Baik dan Serasi")_
+> 🌟 **MASYARAKAT TERATUR BAIK DAN SERASI FRAMEWORK** 🌟  
+> _(Model berpikir radikal yang mengguncang cara kita mengkonsumsi dan memproduksi informasi.)_
 
 ## 🎯 Fitur Utama
 - **Next.js & API Routes**: Menggunakan Next.js untuk server-side rendering dan API handler.
