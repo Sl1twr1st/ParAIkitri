@@ -4,7 +4,7 @@ ParAIkitri adalah framework berbasis **Next.js** yang mengimplementasikan AI age
 
 ## 📖 Tentang ParAIkitri
 
-ParAIkitri bukan sekadar chatbot, melainkan agen pemikiran berbasis kecerdasan buatan yang berlandaskan **jurnalisme, edukasi, dan literasi kritis**. Dengan framework ini, pengguna dapat membangun sistem AI yang berpikir layaknya Parakitri T. Simbolon dalam menyusun argumen, mengkritisi fenomena sosial, serta mengolah informasi dengan reflektif dan mendalam.
+ParAIkitri adalah AI Persona berbasis kecerdasan buatan yang berlandaskan **jurnalisme, edukasi, dan literasi kritis**. Dengan framework ini, pengguna dapat membangun sistem AI yang menggunakan kerangka berfikir Parakitri T. Simbolon dalam menyusun argumen, mengkritisi fenomena sosial, serta mengolah informasi dengan reflektif dan mendalam. Dibangun dari struktur folder 56 GB riset 10 tahun terakhir hidupnya yang diberikan pihak keluarga.
 
 > 🌟 **MASYARAKAT TERATUR BAIK DAN SERASI FRAMEWORK** 🌟  
 > _(Model berpikir radikal yang mengguncang cara kita mengkonsumsi dan memproduksi informasi.)_
@@ -14,7 +14,7 @@ ParAIkitri bukan sekadar chatbot, melainkan agen pemikiran berbasis kecerdasan b
 - **Integrasi AI Agent**: Memanfaatkan model bahasa untuk meniru pola pikir Parakitri T. Simbolon.
 - **Customizable**: Mudah dikonfigurasi agar sesuai dengan kebutuhan spesifik.
 - **Modular & Extensible**: Struktur kode yang memungkinkan pengembangan fitur tambahan.
-- **Pustaka Rujukan**: Termasuk referensi dari karya Parakitri seperti *Menjadi Indonesia* dan *Demokrasi Melangkah di Jalan Bangsa*.
+- **Tonton Youtube Sonny Sangha untuk info detail**:https://www.youtube.com/watch?v=iYX-3hCVmK8
 
 ## 🚀 Cara Instalasi
 
@@ -36,7 +36,22 @@ ParAIkitri bukan sekadar chatbot, melainkan agen pemikiran berbasis kecerdasan b
 ## ⚙️ Konfigurasi
 
 Framework ini dapat dikustomisasi melalui file `.env.local`.
+
+Set Up akun Convex dari:https://www.convex.dev/
+CONVEX_DEPLOYMENT=""
+NEXT_PUBLIC_CONVEX_URL=""
+
+Set Up akun Clerk dari:https://clerk.com/
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=""
+CLERK_SECRET_KEY=""
+
+Set Up wxflows dari:https://wxflows.ibm.stepzen.com/
+WXFLOWS_ENDPOINT=""
+
+Set Up Anthropic API dari:https://www.anthropic.com/
+ANTHROPIC_API_KEY=""
 ```
+## Repository ini dibangun berdasarkan repository: https://github.com/sonnysangha/ai-agent-langchain-langgraph-convex-clerk-ibm-wxtools-nextjs15.git
 
 ## 💡 Cara Berkontribusi
 Kami sangat terbuka terhadap kontribusi dari komunitas! Jika you ingin menambahkan fitur atau meningkatkan performa, silakan:
@@ -46,7 +61,7 @@ Kami sangat terbuka terhadap kontribusi dari komunitas! Jika you ingin menambahk
 4. Kirimkan Pull Request
 
 ## 📜 Lisensi
-Framework ini dirilis di bawah lisensi **MIT**, yang memungkinkan siapa saja untuk menggunakannya, memodifikasinya, dan mendistribusikannya dengan tetap memberikan atribusi kepada pembuatnya.
+Framework ini dirilis di bawah lisensi **MIT**, yang memungkinkan siapa saja untuk menggunakannya, memodifikasinya, dan mendistribusikannya.
 
 ## 🎙️ Sumber & Rujukan
 - *Menjadi Indonesia* oleh **Parakitri T. Simbolon**
