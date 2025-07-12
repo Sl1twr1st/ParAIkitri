@@ -14,7 +14,7 @@ ParAIkitri adalah AI Persona berbasis kecerdasan buatan yang berlandaskan **jurn
 - **Integrasi AI Agent**: Memanfaatkan model bahasa untuk meniru pola pikir Parakitri T. Simbolon.
 - **Customizable**: Mudah dikonfigurasi agar sesuai dengan kebutuhan spesifik.
 - **Modular & Extensible**: Struktur kode yang memungkinkan pengembangan fitur tambahan.
-- **Tonton Youtube Sonny Sangha untuk info detail**:https://www.youtube.com/watch?v=iYX-3hCVmK8
+- **Tonton Youtube Sonny Sangha untuk info detail**: https://www.youtube.com/watch?v=iYX-3hCVmK8
 
 ## 🚀 Cara Instalasi
 
